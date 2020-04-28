@@ -1060,6 +1060,7 @@ id all
 id always
 id async
 id auto
+id autoFab
 id barrier
 id beginning
 id blocking

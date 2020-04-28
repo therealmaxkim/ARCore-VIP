@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/max/Desktop/AndroidArSceneform/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rCL/values-es-rCL.xml",
+            "outputFile": "/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rCL/values-es-rCL.xml",
             "map": [
                 {
                     "source": "/Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/res/values-es-rCL/values.xml",

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
 MERGED from [com.android.support:design:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/91b93f788bbc9c8e2ce0ad1d6fa38e33/design-28.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/1361de6337ae4daf2c9c58a328c0adf1/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/max/.gradle/caches/transforms-2/files-2.1/9a50a28e7be6f258788ba9e2fe6280b2/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
@@ -41,35 +41,35 @@ MERGED from [com.google.ar.sceneform:rendering:1.15.0] /Users/max/.gradle/caches
 MERGED from [com.google.ar.sceneform:sceneform-base:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/74ed6be20d47fd06ec47e3974f8141e4/sceneform-base-1.15.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.ar.sceneform:filament-android:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/4426af1042bfd71dbf5ccd7648781754/filament-android-1.15.0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:17:1-46:12
-INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:3:5-41
-		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
-		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
-		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CAMERA
-ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:5:5-65
+ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:5:5-65
 	android:name
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:5:22-62
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:5:22-62
 uses-feature#android.hardware.camera.ar
-ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:6:5-8:35
+ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:6:5-8:35
 	android:required
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:8:9-32
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:8:9-32
 	android:name
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:7:9-50
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:7:9-50
 application
-ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:10:5-32:19
+ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:10:5-32:19
 MERGED from [com.android.support:design:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/91b93f788bbc9c8e2ce0ad1d6fa38e33/design-28.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/91b93f788bbc9c8e2ce0ad1d6fa38e33/design-28.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/max/.gradle/caches/transforms-2/files-2.1/9a50a28e7be6f258788ba9e2fe6280b2/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
@@ -83,45 +83,45 @@ MERGED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/f
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/e740562fe37fff33c1bd3bd11147cdfe/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:16:9-40
 activity#com.vip.androidarsceneform.MainActivity
-ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:17:9-26:20
+ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:17:9-26:20
 	android:label
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:19:13-45
 	android:theme
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:20:13-56
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:20:13-56
 	android:name
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:18:13-41
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:24:27-74
 meta-data#com.google.ar.core
-ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:28:9-30:40
+ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:28:9-30:40
 	android:value
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:30:13-37
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:29:13-46
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:29:13-46
 uses-sdk
-INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
-INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
+INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/91b93f788bbc9c8e2ce0ad1d6fa38e33/design-28.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/91b93f788bbc9c8e2ce0ad1d6fa38e33/design-28.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/1361de6337ae4daf2c9c58a328c0adf1/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
@@ -196,16 +196,16 @@ MERGED from [com.google.ar.sceneform:filament-android:1.15.0] /Users/max/.gradle
 MERGED from [com.google.ar.sceneform:filament-android:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/4426af1042bfd71dbf5ccd7648781754/filament-android-1.15.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:26:5-28:41
 MERGED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:26:5-28:41
-INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
-INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
+INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
-		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
 meta-data#com.google.ar.core.min_apk_version
 ADDED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:33:9-35:41
 	android:value

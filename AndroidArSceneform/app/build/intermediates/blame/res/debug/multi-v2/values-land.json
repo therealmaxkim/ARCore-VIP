@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/max/Desktop/AndroidArSceneform/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/max/.gradle/caches/transforms-2/files-2.1/91b93f788bbc9c8e2ce0ad1d6fa38e33/design-28.0.0/res/values-land/values-land.xml",
