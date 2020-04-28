@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/91b93f788bbc9c8e2ce0ad1d6fa38e33/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/1361de6337ae4daf2c9c58a328c0adf1/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/max/.gradle/caches/transforms-2/files-2.1/9a50a28e7be6f258788ba9e2fe6280b2/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7d1f1aa1fd53452d0d75d56c6a04fc9c/sceneform-ux-1.15.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/bdfbc0e64f0648238fb01d2f3b85960a/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/554b37798c36762cb0d8f6c8c79093e6/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/dba5bb918fcc7a8058f978d1f722039f/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7fecec1d2f7044a5bc0c8850428080a4/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/5d08da7d5f356f49c1b2481fb7a625af/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fb6ddc72840e02f8157b37148020508c/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/2fe8b17405f4974181e706f0378e1526/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/b04ee11e73230ec5a5523b0dfee6bf57/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7973e005247c85366a13325ad3072fb6/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/18cf6c05a005400067fa3d18b9f65dbf/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/aa281cf2401c0439d321799b7a719015/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/07ade02d7d87b8518e48b56758e8acbd/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/1a231bbcaee6598437364f1f9fa47815/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/756ed40c1df5d45abeb096439211bdd4/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/85519d89096369d0eab004dca11456e6/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/e740562fe37fff33c1bd3bd11147cdfe/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/d1550934d7df826367acfc9bbac043f8/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/ef118aac046966310e4fa8c365e08908/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/a80fab214d7fc963f2b023407fbb757c/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/c4fb9b641f19ffa3cc4ff6c0f72140e3/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/3a0031fde2d96670deca70c930da50c5/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7287b2d7977dd37f8b2f0b114f6b9935/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/f5880a1741c279ef23a926b2bef01096/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/5cabd93daabb71c121d22e332916f4eb/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/43a503312490a70132872d1f071c2661/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/0dbff2a355168f248b449747c40c6e63/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/fd0f75250fa0ae23772c9930d123d2fc/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/255b42db0ca22da649867b5119cbd11e/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/ef057b4a6da22d47f74a487d3db5b382/core-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:rendering:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/f1965dee02a7ce8e96af637fcd04b262/rendering-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/74ed6be20d47fd06ec47e3974f8141e4/sceneform-base-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:filament-android:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/4426af1042bfd71dbf5ccd7648781754/filament-android-1.15.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:17:1-46:12
+INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:6:5-8:35
+	android:required
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:7:9-50
+application
+ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:10:5-32:19
+MERGED from [com.android.support:design:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/91b93f788bbc9c8e2ce0ad1d6fa38e33/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/91b93f788bbc9c8e2ce0ad1d6fa38e33/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/max/.gradle/caches/transforms-2/files-2.1/9a50a28e7be6f258788ba9e2fe6280b2/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/max/.gradle/caches/transforms-2/files-2.1/9a50a28e7be6f258788ba9e2fe6280b2/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/e740562fe37fff33c1bd3bd11147cdfe/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/e740562fe37fff33c1bd3bd11147cdfe/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/d1550934d7df826367acfc9bbac043f8/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/d1550934d7df826367acfc9bbac043f8/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:30:5-44:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/e740562fe37fff33c1bd3bd11147cdfe/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.vip.androidarsceneform.MainActivity
+ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:24:27-74
+meta-data#com.google.ar.core
+ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:28:9-30:40
+	android:value
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml:29:13-46
+uses-sdk
+INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/91b93f788bbc9c8e2ce0ad1d6fa38e33/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/91b93f788bbc9c8e2ce0ad1d6fa38e33/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/1361de6337ae4daf2c9c58a328c0adf1/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/1361de6337ae4daf2c9c58a328c0adf1/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/max/.gradle/caches/transforms-2/files-2.1/9a50a28e7be6f258788ba9e2fe6280b2/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/max/.gradle/caches/transforms-2/files-2.1/9a50a28e7be6f258788ba9e2fe6280b2/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7d1f1aa1fd53452d0d75d56c6a04fc9c/sceneform-ux-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7d1f1aa1fd53452d0d75d56c6a04fc9c/sceneform-ux-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/bdfbc0e64f0648238fb01d2f3b85960a/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/bdfbc0e64f0648238fb01d2f3b85960a/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/554b37798c36762cb0d8f6c8c79093e6/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/554b37798c36762cb0d8f6c8c79093e6/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/dba5bb918fcc7a8058f978d1f722039f/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/dba5bb918fcc7a8058f978d1f722039f/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7fecec1d2f7044a5bc0c8850428080a4/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7fecec1d2f7044a5bc0c8850428080a4/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/5d08da7d5f356f49c1b2481fb7a625af/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/5d08da7d5f356f49c1b2481fb7a625af/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fb6ddc72840e02f8157b37148020508c/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fb6ddc72840e02f8157b37148020508c/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/2fe8b17405f4974181e706f0378e1526/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/2fe8b17405f4974181e706f0378e1526/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/b04ee11e73230ec5a5523b0dfee6bf57/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/b04ee11e73230ec5a5523b0dfee6bf57/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7973e005247c85366a13325ad3072fb6/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7973e005247c85366a13325ad3072fb6/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/18cf6c05a005400067fa3d18b9f65dbf/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/18cf6c05a005400067fa3d18b9f65dbf/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/aa281cf2401c0439d321799b7a719015/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/aa281cf2401c0439d321799b7a719015/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/07ade02d7d87b8518e48b56758e8acbd/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/07ade02d7d87b8518e48b56758e8acbd/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/1a231bbcaee6598437364f1f9fa47815/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/1a231bbcaee6598437364f1f9fa47815/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/756ed40c1df5d45abeb096439211bdd4/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/756ed40c1df5d45abeb096439211bdd4/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/85519d89096369d0eab004dca11456e6/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/85519d89096369d0eab004dca11456e6/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/e740562fe37fff33c1bd3bd11147cdfe/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/e740562fe37fff33c1bd3bd11147cdfe/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/d1550934d7df826367acfc9bbac043f8/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/d1550934d7df826367acfc9bbac043f8/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/ef118aac046966310e4fa8c365e08908/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/ef118aac046966310e4fa8c365e08908/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/a80fab214d7fc963f2b023407fbb757c/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/a80fab214d7fc963f2b023407fbb757c/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/c4fb9b641f19ffa3cc4ff6c0f72140e3/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/c4fb9b641f19ffa3cc4ff6c0f72140e3/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/3a0031fde2d96670deca70c930da50c5/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/3a0031fde2d96670deca70c930da50c5/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7287b2d7977dd37f8b2f0b114f6b9935/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/7287b2d7977dd37f8b2f0b114f6b9935/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/f5880a1741c279ef23a926b2bef01096/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/f5880a1741c279ef23a926b2bef01096/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/5cabd93daabb71c121d22e332916f4eb/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/5cabd93daabb71c121d22e332916f4eb/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/43a503312490a70132872d1f071c2661/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/43a503312490a70132872d1f071c2661/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/0dbff2a355168f248b449747c40c6e63/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/0dbff2a355168f248b449747c40c6e63/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/fd0f75250fa0ae23772c9930d123d2fc/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/fd0f75250fa0ae23772c9930d123d2fc/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/255b42db0ca22da649867b5119cbd11e/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/max/.gradle/caches/transforms-2/files-2.1/255b42db0ca22da649867b5119cbd11e/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/ef057b4a6da22d47f74a487d3db5b382/core-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/ef057b4a6da22d47f74a487d3db5b382/core-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/f1965dee02a7ce8e96af637fcd04b262/rendering-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/f1965dee02a7ce8e96af637fcd04b262/rendering-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/74ed6be20d47fd06ec47e3974f8141e4/sceneform-base-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/74ed6be20d47fd06ec47e3974f8141e4/sceneform-base-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/4426af1042bfd71dbf5ccd7648781754/filament-android-1.15.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/4426af1042bfd71dbf5ccd7648781754/filament-android-1.15.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:26:5-28:41
+INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/Desktop/AndroidArSceneform/app/src/main/AndroidManifest.xml
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:38:13-62
