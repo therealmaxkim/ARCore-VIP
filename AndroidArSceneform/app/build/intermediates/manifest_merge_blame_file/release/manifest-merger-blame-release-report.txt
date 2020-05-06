@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vip.androidarsceneform"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:5:5-65
+11-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:5:22-62
+12
+13    <uses-feature
+13-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:6:5-8:35
+14        android:name="android.hardware.camera.ar"
+14-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:7:9-50
+15        android:required="true" />
+15-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:8:9-32
+16
+17    <application
+17-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:10:5-32:19
+18        android:allowBackup="true"
+18-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:11:9-35
+19        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+19-->[com.android.support:support-compat:28.0.0] /Users/max/.gradle/caches/transforms-2/files-2.1/e740562fe37fff33c1bd3bd11147cdfe/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+20        android:extractNativeLibs="false"
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:12:9-43
+22        android:label="@string/app_name"
+22-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:13:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:14:9-54
+24        android:supportsRtl="true"
+24-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:15:9-35
+25        android:theme="@style/AppTheme" >
+25-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:16:9-40
+26        <activity
+26-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:17:9-26:20
+27            android:name="com.vip.androidarsceneform.MainActivity"
+27-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:18:13-41
+28            android:label="@string/app_name"
+28-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:19:13-45
+29            android:theme="@style/AppTheme.NoActionBar" >
+29-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:20:13-56
+30            <intent-filter>
+30-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:21:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:22:17-69
+31-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:22:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:24:17-77
+33-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36
+37        <meta-data
+37-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:28:9-30:40
+38            android:name="com.google.ar.core"
+38-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:29:13-46
+39            android:value="required" />
+39-->/Users/max/Desktop/ARCore-VIP/AndroidArSceneform/app/src/main/AndroidManifest.xml:30:13-37
+40
+41        <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+42        <meta-data
+42-->[com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:33:9-35:41
+43            android:name="com.google.ar.core.min_apk_version"
+43-->[com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:34:13-62
+44            android:value="191106000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+44-->[com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:35:13-38
+45        <activity
+45-->[com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:37:9-43:80
+46            android:name="com.google.ar.core.InstallActivity"
+46-->[com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:38:13-62
+47            android:configChanges="keyboardHidden|orientation|screenSize"
+47-->[com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:39:13-74
+48            android:excludeFromRecents="true"
+48-->[com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:40:13-46
+49            android:exported="false"
+49-->[com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:41:13-37
+50            android:launchMode="singleTop"
+50-->[com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:42:13-43
+51            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+51-->[com.google.ar:core:1.15.0] /Users/max/.gradle/caches/transforms-2/files-2.1/fc40444e8ff35da3207391b93df2b390/core-1.15.0/AndroidManifest.xml:43:13-77
+52    </application>
+53
+54</manifest>
